@@ -4,6 +4,7 @@ This home repository serves a starting point for people to find their way in all
 
 Following Documentation repositories exist in the 0-complexity organization:
 
-- [doc_whmcs_reference_implementation](https://github.com/0-complexity/doc_whmcs_reference_implementation)
-- [doc_openvcloud_internal](https://github.com/0-complexity/doc_openvcloud_internal)
-- [doc_openvcloud](https://github.com/0-complexity/doc_openvcloud)
+- [WHMCS Reference Implementation Documetation](https://github.com/0-complexity/doc_whmcs_reference_implementation)
+- [Internal Open vStorage Documentation](https://github.com/0-complexity/doc_openvstorage_internal)
+- [Internal OpenvCloud Documentation](https://github.com/0-complexity/doc_openvcloud_internal)
+- [Public OpenvCloud Documentation](https://github.com/0-complexity/doc_openvcloud_public)
