@@ -1,6 +1,12 @@
-## Home repository of the 0-complexity product organization
+## Home repository of the OpenvCloud product organization
 
-This home repository serves a starting point for people to find their way in all other repos in the 0-complexity product organization.
+This home repository serves a starting point for people to find their way in all other repos in the openvcloud product organization.
+
+- owner of this repo = Jo (product owner)
+
+TODO
+- this account will change name to openvcloud
+- we need to move a lot of old content away from this account
 
 Following Documentation repositories exist in the 0-complexity organization:
 
