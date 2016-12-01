@@ -3,6 +3,7 @@
 This home repository serves a starting point for people to find their way in all other repos in the openvcloud product organization.
 
 - owner of this repo = Jo (product owner)
+- [Kanban](https://waffle.io/0-complexity/openvcloud)
 
 TODO
 - this account will change name to openvcloud
