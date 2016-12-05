@@ -9,6 +9,11 @@ TODO
 - this account will change name to openvcloud
 - we need to move a lot of old content away from this account
 
+Milestones:
+- [2.1.6](https://waffle.io/0-complexity/openvcloud?milestone=2.1.6)
+- [2.1.7](https://waffle.io/0-complexity/openvcloud?milestone=2.1.7)
+- [2.2](https://waffle.io/0-complexity/openvcloud?milestone=2.2)
+
 Code Repos:
 - [OpenvCloud Core](https://github.com/0-complexity/openvcloud)
 - [G8VDC Frontend](https://github.com/0-complexity/g8vdc)
