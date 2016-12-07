@@ -22,6 +22,9 @@ Code Repos:
 - [Selfhealing](https://github.com/0-complexity/selfhealing)
 - [AYS7 Repo](https://github.com/0-complexity/openvcloud_ays)
 
+Testin Repos:
+- [Automated testsuite](https://github.com/0-complexity/G8_testing/)
+
 Friendly Repos:
 - [JumpScale7 core](https://github.com/jumpscale7/jumpscale_core7)
 - [JumpScale7 Portal](https://github.com/jumpscale7/jumpscale_portal)
