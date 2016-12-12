@@ -22,7 +22,12 @@ Code Repos:
 - [Selfhealing](https://github.com/0-complexity/selfhealing)
 - [AYS7 Repo](https://github.com/0-complexity/openvcloud_ays)
 
-Testin Repos:
+Infrastructure Repos:
+- [G8 OS pxe configuations](https://github.com/0-complexity/G8OS_boot)
+- [Environment ays template repo](https://github.com/gig-projects/env_template/)
+- [OpenvCloud Docker image](https://github.com/0-complexity/docker_ovc)
+
+Testing Repos:
 - [Automated testsuite](https://github.com/0-complexity/G8_testing/)
 
 Friendly Repos:
