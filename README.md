@@ -14,7 +14,7 @@ TODO
 Milestones:
 - [2.1.6](https://waffle.io/0-complexity/openvcloud?milestone=2.1.6)
 - [2.1.7](https://waffle.io/0-complexity/openvcloud?milestone=2.1.7)
-- [2.2](https://waffle.io/0-complexity/openvcloud?milestone=2.2)
+- [2.2.0](https://waffle.io/0-complexity/openvcloud?milestone=2.2.0)
 
 Code Repos:
 - [OpenvCloud Core](https://github.com/0-complexity/openvcloud)
