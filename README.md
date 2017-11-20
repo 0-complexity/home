@@ -11,10 +11,33 @@ TODO
 - this account will change name to openvcloud
 - we need to move a lot of old content away from this account
 
-Milestones:
+Previous releases:
 - [2.1.6](https://waffle.io/0-complexity/openvcloud?milestone=2.1.6)
 - [2.1.7](https://waffle.io/0-complexity/openvcloud?milestone=2.1.7)
 - [2.2.0](https://waffle.io/0-complexity/openvcloud?milestone=2.2.0)
+
+Upcomming releases:
+- [2.2.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.1) (Release date: 23/11/2017)
+  - General useability bugfixes
+  - Selfhealing fixes for Arakoon
+  - Improved ECO's for easier debugging
+  - False positive healthchecks bugfixes
+  - Duplicate external ip prevention 
+- [2.2.2 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.2) Bug fix release (Release date: 30/11/2017)
+  - Portal fixes and improvements
+  - OVS configuration healthcheck
+- [2.2.3 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 7/12/2017)
+  - To be defined
+- [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 14/12/2017)
+  - Capacity indicator
+  - Controlled / audited ssh access to physical environment
+  - Grow vdisk size
+  - Improved healthcheck reporting
+  - Bugfixes
+- [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Bug fix release (Release date: 21/12/2017)
+  - To be defined
+- [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 28/12/2017)
+  - Kubernetes deployment for master and controller components
 
 Code Repos:
 - [OpenvCloud Core](https://github.com/0-complexity/openvcloud)
