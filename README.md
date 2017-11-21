@@ -27,13 +27,15 @@ Upcomming releases:
   - Portal fixes and improvements
   - OVS configuration healthcheck
 - [2.2.3 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 7/12/2017)
-  - To be defined
+  - Ping health check improvement
+  - Support for non ascii usernames
+  - General smaller improvements & bug fixes
 - [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 14/12/2017)
   - Capacity indicator
   - Controlled / audited ssh access to physical environment
   - Grow vdisk size
   - Improved healthcheck reporting
-  - Bugfixes
+  - General smaller improvements & bug fixes
 - [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Bug fix release (Release date: 21/12/2017)
   - To be defined
 - [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 28/12/2017)
