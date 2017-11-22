@@ -3,13 +3,7 @@
 This home repository serves a starting point for people to find their way in all other repos in the openvcloud product organization.
 
 - owner of this repo = Jo (product owner)
-- [Kanban](https://waffle.io/0-complexity/openvcloud)
-
 - [Telegram](https://telegram.me/joinchat/BBa-pkApsYnrhwVbPTKudQ)
-
-TODO
-- this account will change name to openvcloud
-- we need to move a lot of old content away from this account
 
 Previous releases:
 - [2.1.6](https://waffle.io/0-complexity/openvcloud?milestone=2.1.6)
