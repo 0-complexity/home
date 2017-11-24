@@ -9,14 +9,14 @@ Previous releases:
 - [2.1.6](https://waffle.io/0-complexity/openvcloud?milestone=2.1.6)
 - [2.1.7](https://waffle.io/0-complexity/openvcloud?milestone=2.1.7)
 - [2.2.0](https://waffle.io/0-complexity/openvcloud?milestone=2.2.0)
-
-Upcomming releases:
 - [2.2.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.1) (Release date: 23/11/2017)
   - General useability bugfixes
   - Selfhealing fixes for Arakoon
   - Improved ECO's for easier debugging
   - False positive healthchecks bugfixes
   - Duplicate external ip prevention 
+
+Upcomming releases:
 - [2.2.2 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.2) Bug fix release (Release date: 30/11/2017)
   - Portal fixes and improvements
   - OVS configuration healthcheck
