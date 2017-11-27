@@ -15,6 +15,7 @@ Previous releases:
   - Improved ECO's for easier debugging
   - False positive healthchecks bugfixes
   - Duplicate external ip prevention 
+  - Support for non ascii usernames
 
 Upcomming releases:
 - [2.2.2 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.2) Bug fix release (Release date: 30/11/2017)
@@ -24,7 +25,6 @@ Upcomming releases:
   - Hot add memory / cpu to virtual machines
 - [2.2.3 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 7/12/2017)
   - Ping health check improvement
-  - Support for non ascii usernames
   - General smaller improvements & bug fixes
 - [2.2.4 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 14/12/2017)
   - General smaller improvements & bug fixes
