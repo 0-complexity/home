@@ -28,17 +28,17 @@ Upcomming releases:
   - General smaller improvements & bug fixes
 - [2.2.4 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 14/12/2017)
   - General smaller improvements & bug fixes
-- [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 14/12/2017)
+- [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 14/12/2017)
   - Kubernetes deployment for master and controller components
-- [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 21/12/2017)
+- [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Feature release (Release date: 21/12/2017)
   - Update procedure for manually created controllers to kubernetes hosted controllers
   - General smaller improvements & bug fixes
-- [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 28/12/2017)
+- [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 28/12/2017)
   - Capacity indicator
   - Controlled / audited ssh access to physical environment
   - Improved healthcheck reporting
   - General smaller improvements & bug fixes
-- [2.4.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Bug fix release (Release date: 04/01/2018)
+- [2.4.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.1) Bug fix release (Release date: 04/01/2018)
   - To be defined
 
 Code Repos:
