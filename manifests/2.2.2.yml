@@ -8,7 +8,7 @@
   source:
      branch: staging
   target:
-     tagg: v2.2.2
+     tag: v2.2.2
   url: https://github.com/0-complexity/g8vdc
 - name: OpenvCloud AYS
   source:
