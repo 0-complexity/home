@@ -21,12 +21,13 @@ Previous releases:
   - OVS configuration healthcheck
   - Grow vdisk size
   - Hot add memory / cpu to virtual machines
-
-Upcomming releases:
-- [2.2.3 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 14/12/2017)
+- [2.2.3 release notes](https://github.com/0-complexity/openvcloud/wiki/Release-2.2.3) Bug fix release (Release date: 14/12/2017)
   - Ping health check improvement
   - General smaller improvements & bug fixes
   - Replacement of ROS ip leases with per mac address ip assignment
+  - Hot add cpu, memory, disk space
+
+Upcomming releases:
 - [2.2.4 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 21/12/2017)
   - General smaller improvements & bug fixes
 - [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 21/12/2017)
