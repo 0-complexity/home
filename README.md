@@ -26,10 +26,11 @@ Previous releases:
   - General smaller improvements & bug fixes
   - Replacement of ROS ip leases with per mac address ip assignment
   - Hot add cpu, memory, disk space
+- [2.2.4 release notes](https://github.com/0-complexity/openvcloud/wiki/Release-2.2.4) Bug fix release (Release date: 25/12/2017)
+  - General smaller improvements & bug fixes
+
 
 Upcomming releases:
-- [2.2.4 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.3) Bug fix release (Release date: 21/12/2017)
-  - General smaller improvements & bug fixes
 - [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 21/12/2017)
   - Kubernetes deployment for master and controller components
 - [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Feature release (Release date: 28/12/2017)
