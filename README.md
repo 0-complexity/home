@@ -44,7 +44,7 @@ Upcomming releases:
   - Improved healthcheck reporting
   - General smaller improvements & bug fixes
 - [2.3.2 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.2) Bug fix release (Release date: 01/02/2018)
-  - To be defined
+  - General smaller improvements & bug fixes
 
 
 Code Repos:
