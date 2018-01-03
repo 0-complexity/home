@@ -31,18 +31,21 @@ Previous releases:
 
 
 Upcomming releases:
-- [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 21/12/2017)
-  - Kubernetes deployment for master and controller components
-- [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Feature release (Release date: 28/12/2017)
-  - Update procedure for manually created controllers to kubernetes hosted controllers
+- [2.2.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.5) Bug fix release (Release date: 04/01/2018)
   - General smaller improvements & bug fixes
-- [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 04/01/2017)
-  - Capacity indicator
+- [2.2.6 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.6) Bug fix release (Release date: 11/01/2018)
+  - General smaller improvements & bug fixes
+- [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 15/01/2018)
+  - Kubernetes deployment for master and controller components
   - Controlled / audited ssh access to physical environment
+- [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Feature release (Release date: 25/01/2018)
+  - Migration procedure for manually created controllers to kubernetes hosted controllers
+  - Capacity indicator
   - Improved healthcheck reporting
   - General smaller improvements & bug fixes
-- [2.4.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.1) Bug fix release (Release date: 11/01/2018)
+- [2.3.2 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.2) Bug fix release (Release date: 01/02/2018)
   - To be defined
+
 
 Code Repos:
 - [OpenvCloud Core](https://github.com/0-complexity/openvcloud)
@@ -50,13 +53,16 @@ Code Repos:
 - [Selfhealing](https://github.com/0-complexity/selfhealing)
 - [AYS7 Repo](https://github.com/0-complexity/openvcloud_ays)
 
+
 Infrastructure Repos:
 - [G8 OS pxe configuations](https://github.com/0-complexity/G8OS_boot)
 - [Environment ays template repo](https://github.com/gig-projects/env_template/)
 - [OpenvCloud Docker image](https://github.com/0-complexity/docker_ovc)
 
+
 Testing Repos:
 - [Automated testsuite](https://github.com/0-complexity/G8_testing/)
+
 
 Friendly Repos:
 - [JumpScale7 core](https://github.com/jumpscale7/jumpscale_core7)
