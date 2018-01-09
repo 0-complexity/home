@@ -28,11 +28,11 @@ Previous releases:
   - Hot add cpu, memory, disk space
 - [2.2.4 release notes](https://github.com/0-complexity/openvcloud/wiki/Release-2.2.4) Bug fix release (Release date: 25/12/2017)
   - General smaller improvements & bug fixes
+- [2.2.5 release notes](https://waffle.io/0-complexity/openvcloud/wiki/Release-2.2.5) Bug fix release (Release date: 04/01/2018)
+  - General smaller improvements & bug fixes
 
 
 Upcomming releases:
-- [2.2.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.5) Bug fix release (Release date: 04/01/2018)
-  - General smaller improvements & bug fixes
 - [2.2.6 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.6) Bug fix release (Release date: 11/01/2018)
   - General smaller improvements & bug fixes
 - [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 15/01/2018)
@@ -45,6 +45,17 @@ Upcomming releases:
   - General smaller improvements & bug fixes
 - [2.3.2 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.2) Bug fix release (Release date: 01/02/2018)
   - General smaller improvements & bug fixes
+- [2.5.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.0) Feature release (Release date: Q1)
+  - Zero gateway (Replacement for Router OS)
+  - Improved VM placement (resource usage based / affinity / manual rebalancing )
+  - Automated image updates
+  - VM high availability
+  - Flexible disk types
+  - Cloudspace migration between OVC instances
+- [2.5.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.5) Feature release (Release date: Q2)
+  - Improved security model for itsyouonline & ldap
+- [2.6.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.6.0) Feature release (Release date: Q2)
+  - Not yet defined
 
 
 Code Repos:
