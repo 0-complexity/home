@@ -26,9 +26,11 @@ Previous releases:
   - General smaller improvements & bug fixes
   - Replacement of ROS ip leases with per mac address ip assignment
   - Hot add cpu, memory, disk space
-- [2.2.4 release notes](https://github.com/0-complexity/openvcloud/wiki/Release-2.2.4) Bug fix release (Release date: 25/12/2017)
+- [2.2.4 release notes](https://github.com/0-complexity/openvcloud/releases/tag/v2.2.4) Bug fix release (Release date: 25/12/2017)
   - General smaller improvements & bug fixes
-- [2.2.5 release notes](https://waffle.io/0-complexity/openvcloud/wiki/Release-2.2.5) Bug fix release (Release date: 04/01/2018)
+- [2.2.5 release notes](https://github.com/0-complexity/openvcloud/releases/tag/v2.2.5) Bug fix release (Release date: 04/01/2018)
+  - General smaller improvements & bug fixes
+- [2.2.6 release notes](https://github.com/0-complexity/openvcloud/releases/tag/v2.2.6) Bug fix release (Release date: 24/01/2018)
   - General smaller improvements & bug fixes
 
 
@@ -36,8 +38,6 @@ Upcomming releases:
 - [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 18/01/2018)
   - Kubernetes deployment for master and controller components
   - Controlled / audited ssh access to physical environment
-- [2.2.6 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.2.6) Bug fix release (Release date: 24/01/2018)
-  - General smaller improvements & bug fixes
 - [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Feature release (Release date: 01/02/2018)
   - Migration procedure for manually created controllers to kubernetes hosted controllers
   - Capacity indicator
