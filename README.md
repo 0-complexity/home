@@ -35,16 +35,16 @@ Previous releases:
 
 
 Upcomming releases:
-- [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 18/01/2018)
+- [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 27/02/2018)
   - Kubernetes deployment for master and controller components
   - Controlled / audited ssh access to physical environment
-- [2.3.1 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.1) Feature release (Release date: 01/02/2018)
   - Migration procedure for manually created controllers to kubernetes hosted controllers
-  - Capacity indicator
   - Improved healthcheck reporting
   - General smaller improvements & bug fixes
-- [2.3.2 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.2) Bug fix release (Release date: 08/02/2018)
-  - General smaller improvements & bug fixes
+- [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 13/03/2018)
+  - Hyperconverged setup
+  - Daisy chain networking
+  - Mount physical disk in vm
 - [2.5.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.0) Feature release (Release date: Q1)
   - Zero gateway (Replacement for Router OS)
   - Improved VM placement (resource usage based / affinity / manual rebalancing )
