@@ -66,7 +66,7 @@ images:
   openvcloud/grafana: 5.0.0
   nginx: 1.13
   mongo: 3.7.2
-  cvallance/mongo-k8s-sidecar: lastest
+  cvallance/mongo-k8s-sidecar: latest
   influxdb: 1.4
-  syncthing/syncthing: lastest
+  syncthing/syncthing: latest
   redis: 3.2
