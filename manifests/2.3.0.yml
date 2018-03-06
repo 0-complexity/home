@@ -1,51 +1,51 @@
 repos:
   - name: OpenvCloud Core
     source:
-       branch: staging
+       branch: master
     target:
        tag: v2.3.0
     url: https://github.com/0-complexity/openvcloud
   - name: OpenvCloud Installer
     source:
-       branch: staging
+       branch: master
     target:
        tag: v2.3.0
     url: https://github.com/0-complexity/openvcloud_installer
   - name: OpenvCloud Frontend
     source:
-       branch: staging
+       branch: master
     target:
        tag: v2.3.0
     url: https://github.com/0-complexity/g8vdc
   - name: OpenvCloud AYS
     source:
-       branch: staging
+       branch: master
     target:
        tag: v2.3.0
     url: https://github.com/0-complexity/openvcloud_ays
     ays: true
   - name: OpenvCloud Selfhealing
     source:
-       branch: staging
+       branch: master
     target:
        tag: v2.3.0
     url: https://github.com/0-complexity/selfhealing
   
   - name: JumpScale Core
     source:
-       branch: staging
+       branch: master
     target:
        tag: v7.3.0
     url: https://github.com/jumpscale7/jumpscale_core7
   - name: JumpScale Portal
     source:
-       branch: staging
+       branch: master
     target:
        tag: v7.3.0
     url: https://github.com/jumpscale7/jumpscale_portal
   - name: JumpScale AYS
     source:
-       branch: staging
+       branch: master
     target:
        tag: v7.3.0
     ays: true
