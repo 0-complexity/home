@@ -53,7 +53,6 @@ repos:
 
 images:
   openvcloud/cb_master: 2.3.0 
-  openvcloud/portal7: 2.3.0
   openvcloud/grafana-init: 2.3.0 
   openvcloud/syncthing_sidecar: 2.3.0
   openvcloud/pxeboot: 2.3.0
