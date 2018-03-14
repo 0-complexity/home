@@ -57,7 +57,7 @@ images:
   openvcloud/syncthing_sidecar: 2.3.0
   openvcloud/pxeboot: 2.3.0
   openvcloud/pxeboot-init: 2.3.0
-  openvcloud/nxginx-init: 2.3.0
+  openvcloud/nginx-init: 2.3.0
   openvcloud/pxeboot-httpd: 2.3.0
   openvcloud/0-access: OVC-2.3.0
   openvcloud/js9: 2.3.0
