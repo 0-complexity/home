@@ -32,15 +32,14 @@ Previous releases:
   - General smaller improvements & bug fixes
 - [2.2.6 release notes](https://github.com/0-complexity/openvcloud/releases/tag/v2.2.6) Bug fix release (Release date: 24/01/2018)
   - General smaller improvements & bug fixes
-
-
-Upcomming releases:
 - [2.3.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.3.0) Feature release (Release date: 27/02/2018)
   - Kubernetes deployment for master and controller components
   - Controlled / audited ssh access to physical environment
   - Migration procedure for manually created controllers to kubernetes hosted controllers
   - Improved healthcheck reporting
   - General smaller improvements & bug fixes
+
+Upcomming releases:
 - [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 13/03/2018)
   - Hyperconverged setup
   - Daisy chain networking
