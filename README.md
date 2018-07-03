@@ -38,24 +38,33 @@ Previous releases:
   - Migration procedure for manually created controllers to kubernetes hosted controllers
   - Improved healthcheck reporting
   - General smaller improvements & bug fixes
-
-
-Upcomming releases:
-
-- [2.4.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.0) Feature release (Release date: 13/03/2018)
+- [2.4.0 release notes](https://github.com/0-complexity/openvcloud/releases/tag/v2.4.0) Feature release (Release date: 21/05/2018)
   - Hyperconverged setup
   - Daisy chain networking
   - Mount physical disk in vm
-- [2.5.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.0) Feature release (Release date: Q1)
+- [2.4.1](https://github.com/0-complexity/openvcloud/releases/tag/v2.4.1) Bugfix release (Release date: 27/05/2018)
+  - Fixed update script
+- [2.4.2](https://github.com/0-complexity/openvcloud/releases/tag/v2.4.2) Bugfix release (Release date: 03/06/2018)
+  - Jumpscript fixes
+
+
+Upcomming releases:
+- [2.4.3 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.3) Bugfix release (Release date: 06/07/2018)
+  - Blocking bugs
+    - Failing vm creation
+    - Failing vm migrations
+  - General smaller improvements & bug fixes
+- [2.4.4 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.4) Bugfix release (Release date: 27/07/2018)
+  - General smaller improvements & bug fixes
+- [2.5.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.0) Feature release (Release date: Q3)
   - Zero gateway (Replacement for Router OS)
   - Improved VM placement (resource usage based / affinity / manual rebalancing )
   - Automated image updates
   - VM high availability
-  - Flexible disk types
   - Cloudspace migration between OVC instances
-- [2.5.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.5) Feature release (Release date: Q2)
+- [2.5.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.5) Feature release (Release date: Q3)
   - Improved security model for itsyouonline & ldap
-- [2.6.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.6.0) Feature release (Release date: Q2)
+- [2.6.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.6.0) Feature release (Release date: Q4)
   - Not yet defined
 
 
