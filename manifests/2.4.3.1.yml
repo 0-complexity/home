@@ -15,13 +15,13 @@ repos:
     source:
        branch: master
     target:
-       tag: v2.4.3
+       tag: v2.4.3.1
     url: https://github.com/0-complexity/g8vdc.git
   - name: OpenvCloud AYS
     source:
        branch: master
     target:
-       tag: v2.4.3
+       tag: v2.4.3.1
     url: https://github.com/0-complexity/openvcloud_ays
     ays: true
   - name: OpenvCloud Selfhealing
