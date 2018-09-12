@@ -56,7 +56,9 @@ Previous releases:
 
 
 Upcomming releases:
-- [2.4.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=v2.4.5) Bugfix release (Release date: 06/09/2018)
+- [2.4.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.5) Bugfix release (Release date: 12/09/2018)
+  - General smaller improvements & bug fixes
+- [2.4.6 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.6) Bugfix release (Release date: 27/09/2018)
   - General smaller improvements & bug fixes
 - [2.5.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.0) Feature release (Release date: Q3)
   - Zero gateway (Replacement for Router OS)
