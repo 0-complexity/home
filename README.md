@@ -53,11 +53,12 @@ Previous releases:
   - General smaller improvements & bug fixes
 - [2.4.4](https://github.com/0-complexity/openvcloud/releases/tag/v2.4.4) Bugfix release (Release date: 19/08/2018)
   - General smaller improvements & bug fixes
-
+- [2.4.5](https://github.com/0-complexity/openvcloud/releases/tag/v2.4.4) Bugfix release (Release date: 13/09/2018)
+  - Multiple external networks
+  - Auto updated images 
+  - General smaller improvements & bug fixes
 
 Upcomming releases:
-- [2.4.5 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.5) Bugfix release (Release date: 12/09/2018)
-  - General smaller improvements & bug fixes
 - [2.4.6 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.4.6) Bugfix release (Release date: 27/09/2018)
   - General smaller improvements & bug fixes
 - [2.5.0 kanban](https://waffle.io/0-complexity/openvcloud?milestone=2.5.0) Feature release (Release date: Q3)
