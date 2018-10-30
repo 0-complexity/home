@@ -67,7 +67,7 @@ images:
   openvcloud/pxeboot-httpd: 2.4.0
   openvcloud/nginx-init: 2.4.5
   openvcloud/0-access: 2.4.5
-  openvcloud/management: 2.4.5
+  openvcloud/management: 2.4.5.3
   openvcloud/nginx: 2.4.5
   openvcloud/ninstaller: 2.4.5
   grafana/grafana: 5.0.0
