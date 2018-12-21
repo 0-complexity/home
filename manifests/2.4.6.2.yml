@@ -64,7 +64,7 @@ images:
   ovcimages/openvcloud/cb_master: 2.4.6.2
   ovcimages/openvcloud/vgw: 2.4.6
   ovcimages/openvcloud/importexport: 2.4.6
-  ovcimages/openvcloud/base: 2.4.6.1
+  ovcimages/openvcloud/base: 2.4.6.2
   ovcimages/openvcloud/grafana-init: 2.4.6
   ovcimages/openvcloud/syncthing_sidecar: 2.4.6
   ovcimages/openvcloud/slightcar: 2.4.6
